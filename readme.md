@@ -24,8 +24,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, propor m
 
 ## Autor
 
-[Seu Nome]
-
-## Licença
-
-Este projeto está licenciado sob a [Licença XYZ]. Consulte o arquivo [LICENSE.md] para obter mais detalhes.
+Thiago Santos
